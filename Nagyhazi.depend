@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1699716486 source:c:\users\zephyrus\desktop\nagyhazi\nagyhazi\beolvas.c
+	"beolvas.h"
+	<stdio.h>
+
+1699722580 source:c:\users\zephyrus\desktop\nagyhazi\nagyhazi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"beolvas.h"
+	"excelbeolvas.h"
+
+1699716280 c:\users\zephyrus\desktop\nagyhazi\nagyhazi\beolvas.h
+	<stdio.h>
+
+1699723154 source:c:\users\zephyrus\desktop\nagyhazi\nagyhazi\excelbeolvas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"excelbeolvas.h"
+
+1699723161 c:\users\zephyrus\desktop\nagyhazi\nagyhazi\excelbeolvas.h
+	"beolvas.h"
+
